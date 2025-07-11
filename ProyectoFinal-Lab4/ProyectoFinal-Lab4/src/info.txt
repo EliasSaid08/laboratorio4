@@ -1,0 +1,9 @@
+esta es la carpeta del codigo fuente (source o src)
+
+-en data se almacenan funciones que tengan que ver con la manipulacion de los datos, tanto de la api como de usuarios ,etc
+- en models ira todo lo relativo a modelo de logica difusa, sistema experto, machine learning, red neuronal
+- en ui estan los archivos relacionados con la interfaz grafica
+- en utils se guardan funciones auxiliares que puede ser necesario llamar a diferentes lugares, por ej cifrado y descifrado
+- .env contiene la api key almacenada y permite llamarla a cualquier parte
+- config.py actua como capa entidad, contiene todo lo que sea necesario con respecto a eso ej ruteo del archivo usuarios.txt
+- main.py es el ejecutable del programa.

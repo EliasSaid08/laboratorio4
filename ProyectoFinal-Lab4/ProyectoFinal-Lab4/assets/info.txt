@@ -1,0 +1,4 @@
+aqui van recursos del proyecto en sus respectivas carpetas
+-iconos
+-imagenes
+-fonts
